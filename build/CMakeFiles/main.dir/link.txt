@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/01_use_of_classes.cpp.o CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o -o main 

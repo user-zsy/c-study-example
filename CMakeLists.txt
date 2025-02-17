@@ -1,0 +1,10 @@
+
+cmake_minimum_required(VERSION 3.5)
+ project(C++_STUDEY VERSION 0.1)
+ if(NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE Release)
+ endif()
+include_directories(include)
+aux_source_directory(src src_list)
+message(STATUS "src_list: ${src_list}")
+add_executable(main main.cpp ${src_list})

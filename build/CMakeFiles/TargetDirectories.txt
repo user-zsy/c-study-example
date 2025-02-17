@@ -1,0 +1,3 @@
+/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles/main.dir
+/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles/edit_cache.dir
+/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles/rebuild_cache.dir
