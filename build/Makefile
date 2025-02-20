@@ -201,6 +201,54 @@ src/02_basic_use_of_objects.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.s
 .PHONY : src/02_basic_use_of_objects.cpp.s
 
+src/03_custom_overloaded_constructor.o: src/03_custom_overloaded_constructor.cpp.o
+.PHONY : src/03_custom_overloaded_constructor.o
+
+# target to build an object file
+src/03_custom_overloaded_constructor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o
+.PHONY : src/03_custom_overloaded_constructor.cpp.o
+
+src/03_custom_overloaded_constructor.i: src/03_custom_overloaded_constructor.cpp.i
+.PHONY : src/03_custom_overloaded_constructor.i
+
+# target to preprocess a source file
+src/03_custom_overloaded_constructor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.i
+.PHONY : src/03_custom_overloaded_constructor.cpp.i
+
+src/03_custom_overloaded_constructor.s: src/03_custom_overloaded_constructor.cpp.s
+.PHONY : src/03_custom_overloaded_constructor.s
+
+# target to generate assembly for a file
+src/03_custom_overloaded_constructor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.s
+.PHONY : src/03_custom_overloaded_constructor.cpp.s
+
+src/04_custom_copy_constructor.o: src/04_custom_copy_constructor.cpp.o
+.PHONY : src/04_custom_copy_constructor.o
+
+# target to build an object file
+src/04_custom_copy_constructor.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o
+.PHONY : src/04_custom_copy_constructor.cpp.o
+
+src/04_custom_copy_constructor.i: src/04_custom_copy_constructor.cpp.i
+.PHONY : src/04_custom_copy_constructor.i
+
+# target to preprocess a source file
+src/04_custom_copy_constructor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.i
+.PHONY : src/04_custom_copy_constructor.cpp.i
+
+src/04_custom_copy_constructor.s: src/04_custom_copy_constructor.cpp.s
+.PHONY : src/04_custom_copy_constructor.s
+
+# target to generate assembly for a file
+src/04_custom_copy_constructor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.s
+.PHONY : src/04_custom_copy_constructor.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -219,6 +267,12 @@ help:
 	@echo "... src/02_basic_use_of_objects.o"
 	@echo "... src/02_basic_use_of_objects.i"
 	@echo "... src/02_basic_use_of_objects.s"
+	@echo "... src/03_custom_overloaded_constructor.o"
+	@echo "... src/03_custom_overloaded_constructor.i"
+	@echo "... src/03_custom_overloaded_constructor.s"
+	@echo "... src/04_custom_copy_constructor.o"
+	@echo "... src/04_custom_copy_constructor.i"
+	@echo "... src/04_custom_copy_constructor.s"
 .PHONY : help
 
 

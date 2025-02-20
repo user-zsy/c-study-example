@@ -33,4 +33,5 @@ int test_01_use_of_classes()
     Human niuma;
     niuma.work();
     niuma.sleep();
+    return 0;
 }

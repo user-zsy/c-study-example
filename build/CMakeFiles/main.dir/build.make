@@ -73,49 +73,79 @@ CMakeFiles/main.dir/main.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/main.cpp.o: /home/ubuntu24/userFolder/c++_study_folder/main.cpp
 CMakeFiles/main.dir/main.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.o -MF CMakeFiles/main.dir/main.cpp.o.d -o CMakeFiles/main.dir/main.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/main.cpp.o -MF CMakeFiles/main.dir/main.cpp.o.d -o CMakeFiles/main.dir/main.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/main.cpp
 
 CMakeFiles/main.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/main.cpp > CMakeFiles/main.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/main.cpp > CMakeFiles/main.dir/main.cpp.i
 
 CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/main.cpp -o CMakeFiles/main.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/main.cpp -o CMakeFiles/main.dir/main.cpp.s
 
 CMakeFiles/main.dir/src/01_use_of_classes.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/01_use_of_classes.cpp.o: /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp
 CMakeFiles/main.dir/src/01_use_of_classes.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/01_use_of_classes.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/01_use_of_classes.cpp.o -MF CMakeFiles/main.dir/src/01_use_of_classes.cpp.o.d -o CMakeFiles/main.dir/src/01_use_of_classes.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/01_use_of_classes.cpp.o -MF CMakeFiles/main.dir/src/01_use_of_classes.cpp.o.d -o CMakeFiles/main.dir/src/01_use_of_classes.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp
 
 CMakeFiles/main.dir/src/01_use_of_classes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/01_use_of_classes.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp > CMakeFiles/main.dir/src/01_use_of_classes.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp > CMakeFiles/main.dir/src/01_use_of_classes.cpp.i
 
 CMakeFiles/main.dir/src/01_use_of_classes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/01_use_of_classes.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp -o CMakeFiles/main.dir/src/01_use_of_classes.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp -o CMakeFiles/main.dir/src/01_use_of_classes.cpp.s
 
 CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o: /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp
 CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o -MF CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o.d -o CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o -MF CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o.d -o CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp
 
 CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp > CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp > CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.i
 
 CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp -o CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp -o CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.s
+
+CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o: /home/ubuntu24/userFolder/c++_study_folder/src/03_custom_overloaded_constructor.cpp
+CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o -MF CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o.d -o CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/03_custom_overloaded_constructor.cpp
+
+CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/src/03_custom_overloaded_constructor.cpp > CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.i
+
+CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/src/03_custom_overloaded_constructor.cpp -o CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.s
+
+CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o: /home/ubuntu24/userFolder/c++_study_folder/src/04_custom_copy_constructor.cpp
+CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o -MF CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o.d -o CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/04_custom_copy_constructor.cpp
+
+CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ubuntu24/userFolder/c++_study_folder/src/04_custom_copy_constructor.cpp > CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.i
+
+CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ubuntu24/userFolder/c++_study_folder/src/04_custom_copy_constructor.cpp -o CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/main.cpp.o" \
 "CMakeFiles/main.dir/src/01_use_of_classes.cpp.o" \
-"CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o"
+"CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o" \
+"CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o" \
+"CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
@@ -123,9 +153,11 @@ main_EXTERNAL_OBJECTS =
 main: CMakeFiles/main.dir/main.cpp.o
 main: CMakeFiles/main.dir/src/01_use_of_classes.cpp.o
 main: CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o
+main: CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o
+main: CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ubuntu24/userFolder/c++_study_folder/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

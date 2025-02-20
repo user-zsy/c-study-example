@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "04_custom_copy_constructor.h": "c"
+    }
+}

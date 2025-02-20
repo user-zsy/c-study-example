@@ -11,6 +11,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/ubuntu24/userFolder/c++_study_folder/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
   "/home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp" "CMakeFiles/main.dir/src/01_use_of_classes.cpp.o" "gcc" "CMakeFiles/main.dir/src/01_use_of_classes.cpp.o.d"
   "/home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp" "CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o" "gcc" "CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o.d"
+  "/home/ubuntu24/userFolder/c++_study_folder/src/03_custom_overloaded_constructor.cpp" "CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o" "gcc" "CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o.d"
+  "/home/ubuntu24/userFolder/c++_study_folder/src/04_custom_copy_constructor.cpp" "CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o" "gcc" "CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

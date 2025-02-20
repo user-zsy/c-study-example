@@ -1,7 +1,8 @@
-#include <iostream>
-#include <string>
+
 #ifndef __01_USE_OF_CLASSES_H__
 #define __01_USE_OF_CLASSES_H__
+#include <iostream>
+#include <string>
 
 using namespace std;
 class Human{

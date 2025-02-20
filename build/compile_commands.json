@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ubuntu24/userFolder/c++_study_folder/build",
+  "command": "/usr/bin/g++  -I/home/ubuntu24/userFolder/c++_study_folder/include -g -o CMakeFiles/main.dir/main.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/main.cpp",
+  "file": "/home/ubuntu24/userFolder/c++_study_folder/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ubuntu24/userFolder/c++_study_folder/build",
+  "command": "/usr/bin/g++  -I/home/ubuntu24/userFolder/c++_study_folder/include -g -o CMakeFiles/main.dir/src/01_use_of_classes.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp",
+  "file": "/home/ubuntu24/userFolder/c++_study_folder/src/01_use_of_classes.cpp",
+  "output": "CMakeFiles/main.dir/src/01_use_of_classes.cpp.o"
+},
+{
+  "directory": "/home/ubuntu24/userFolder/c++_study_folder/build",
+  "command": "/usr/bin/g++  -I/home/ubuntu24/userFolder/c++_study_folder/include -g -o CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp",
+  "file": "/home/ubuntu24/userFolder/c++_study_folder/src/02_basic_use_of_objects.cpp",
+  "output": "CMakeFiles/main.dir/src/02_basic_use_of_objects.cpp.o"
+},
+{
+  "directory": "/home/ubuntu24/userFolder/c++_study_folder/build",
+  "command": "/usr/bin/g++  -I/home/ubuntu24/userFolder/c++_study_folder/include -g -o CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/03_custom_overloaded_constructor.cpp",
+  "file": "/home/ubuntu24/userFolder/c++_study_folder/src/03_custom_overloaded_constructor.cpp",
+  "output": "CMakeFiles/main.dir/src/03_custom_overloaded_constructor.cpp.o"
+},
+{
+  "directory": "/home/ubuntu24/userFolder/c++_study_folder/build",
+  "command": "/usr/bin/g++  -I/home/ubuntu24/userFolder/c++_study_folder/include -g -o CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o -c /home/ubuntu24/userFolder/c++_study_folder/src/04_custom_copy_constructor.cpp",
+  "file": "/home/ubuntu24/userFolder/c++_study_folder/src/04_custom_copy_constructor.cpp",
+  "output": "CMakeFiles/main.dir/src/04_custom_copy_constructor.cpp.o"
+}
+]
